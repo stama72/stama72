@@ -2,7 +2,8 @@
 
 ## Skills
 - Java - I love object oriented programming
-- Python - It was easy to learn
+- C# - I started game programming
+- Python - It was easy to learn just as a language
 - HTML/CSS/JavaScript - A few of ticket for web development, now studying...
 - Dart - I like this java-like language, but riverpod is little bit compricated
 - C/C++ - The beginning of my programming journey
