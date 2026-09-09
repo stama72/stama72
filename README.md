@@ -3,7 +3,7 @@
 ## Skills
 - Java - I love object oriented programming
 - Python - It was easy to learn
-- HTML/CSS/JavaScript - A ticket to web development, now studying...
+- HTML/CSS/JavaScript - A few of ticket for web development, now studying...
 - Dart - I like this java-like language, but riverpod is little bit compricated
 - C/C++ - The beginning of my programming journey
 
@@ -25,7 +25,7 @@
 - Framework, API: React, FastAPI, Mapbox, PostgreSQL 
 - Server: Render, Supabase
 
-### Wasedule - A timetable mobile app for the students of waseda university
+### [Wasedule](https://github.com/Aozora-Studio/wasedule) - A timetable mobile app for the students of waseda university
 - Team project (a few contribution) (with claude code)
 - Lang: Dart, Swift, Kotlin
 - Framework, API: Flutter, Riverpod, sqflite etc...
