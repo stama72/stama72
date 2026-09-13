@@ -9,7 +9,7 @@
 - C/C++ - The beginning of my programming journey
 
 ## My portfolio
-### [Learning mentor](https://github.com/winc1980/learning-mentor) - An AI mentor prompt package provides technological explanation, review and trouble-shooting without generating codes
+### [Learning mentor](https://github.com/winc1980/learning-mentor) - A mentoring prompt package provides technological explanation, review and trouble-shooting without generating codes
 - Solo project (with claude code)
 - Lang: Japanese, Python, TypeScript
 - Can work on: Claude, Codex and other coding agents
