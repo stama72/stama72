@@ -6,6 +6,7 @@ I love object-oriented programming
 - Python 2 years
 - C/C++ 1 year
 - TypeScript a few months
+- SQL a few months
 - C# a month
 - Dart a little bit
 
