@@ -1,12 +1,13 @@
 # Tamaki Sano - A student
 
 ## Skills
-- Java - I love object oriented programming
-- C# - I started game programming
-- Python - It was easy to learn just as a language
-- HTML/CSS/JavaScript - A few of ticket for web development, now studying...
-- Dart - I like this java-like language, but riverpod is little bit compricated
-- C/C++ - The beginning of my programming journey
+I love object-oriented programming
+- Java 3 years
+- Python 2 years
+- C/C++ 1 year
+- TypeScript a few months
+- C# a month
+- Dart a little bit
 
 ## My portfolio
 ### [Learning mentor](https://github.com/winc1980/learning-mentor) - A mentoring prompt package provides technological explanation, review and trouble-shooting without generating codes
