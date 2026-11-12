@@ -4,11 +4,11 @@
 I love object-oriented programming
 - Java 3 years
 - Python 2 years
-- C/C++ 1 year
-- TypeScript a few months
-- SQL a few months
-- C# a month
-- Dart a little bit
+- C/C++ 2 year
+- SQL 1 year
+- TypeScript a half year
+- C# a few month
+- Dart a few month
 
 ## My portfolio
 ### [Learning mentor](https://github.com/winc1980/learning-mentor) - A mentoring prompt package provides technological explanation, review and trouble-shooting without generating codes
@@ -16,11 +16,11 @@ I love object-oriented programming
 - Lang: Japanese, Python, TypeScript
 - Can work on: Claude, Codex and other coding agents
 
-### [WincBOT](https://github.com/winc1980/winc-bot) - A discord BOT enables club members to talk with LINE and Instagram users
+### [WincBOT](https://github.com/winc1980/winc-bot) - A discord BOT enables club members to respond to the messages on LINE and Instagram
 - Solo project (with claude code)
 - Lang: TypeScript 
-- Framework, API: Discord.js, LINE API, Instagram API, Notion API 
-- Server: Railway
+- Framework, API: Hono, Discord.js, LINE API, Instagram API, Notion API 
+- Server: Render
 
 ### [GeoVisula](https://geovisula-frontend.onrender.com/) - A map web app with editable line markers representing relationships between countries
 - Solo project (with claude code)
